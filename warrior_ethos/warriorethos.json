@@ -1,0 +1,723 @@
+[
+    {
+        "id": "001",
+        "script_title": "No One Is Coming",
+        "tag": "Statues_Stoicism",
+        "segments": 5,
+        "bg_music": "dark_ambient_01.mp3",
+        "pinned_comment": "No rescue team is coming. Take full responsibility today. Drop a \ud83d\udd25 if you needed this.",
+        "posted": true,
+        "scenes": [
+            {
+                "text": "No one is coming to save you.",
+                "heading_text": "THE HARD TRUTH",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "No government, no mentor, and no miraculous event is going to fix your life.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "The weight of your future sits entirely on your own shoulders.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Stop waiting for the right mood and start building relentless discipline.",
+                "heading_text": "BUILD DISCIPLINE",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Because in the end... you will realize that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "script_title": "Work In Silence",
+        "tag": "Gym_Training",
+        "segments": 6,
+        "bg_music": "dark_ambient_01.mp3",
+        "pinned_comment": "Let your execution speak for you. What goal are you quietly working on right now?",
+        "posted": true,
+        "scenes": [
+            {
+                "text": "Work in total silence.",
+                "heading_text": "SILENT EXECUTION",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Never announce your moves before you make them.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Let your results shatter the room while your mouth stays closed.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Weak men broadcast their plans to get temporary applause.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Strong men stay quiet until the execution is done.",
+                "heading_text": "STAY QUIET",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Always remember to... keep your focus sharp and...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "script_title": "The Price of Mastery",
+        "tag": "Statues_Stoicism",
+        "bg_music": "dark_ambient_01.mp3",
+        "pinned_comment": "Mastery demands total isolation from comfort. Share if you are on this path. \ud83d\udd25",
+        "posted": true,
+        "scenes": [
+            {
+                "text": "Comfort is the quiet thief of human greatness.",
+                "heading_text": "THE COMFORT TRAP",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Every time you choose ease over effort, you destroy your potential.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Ancient minds knew that pain was not a punishment, but a filter.",
+                "heading_text": "THE ANCIENT FILTER",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Only those willing to endure the furnace will ever forged into steel.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Which is why you must remember that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "script_title": "Forged in the Dark",
+        "tag": "Gym_Training",
+        "bg_music": "heavy_phonk_01.mp3",
+        "pinned_comment": "Nobody sees the early hours. Keep putting in the work. \ud83d\udca5",
+        "posted": true,
+        "scenes": [
+            {
+                "text": "Nobody cares about your excuses when the weights are on the bar.",
+                "heading_text": "NO EXCUSES",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Results do not yield to good intentions or empty promises.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "They yield to sweat, strain, and relentless repetition.",
+                "heading_text": "THE WORK",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "When you want to quit, that is where the real set begins.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Prove to yourself today that...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "004",
+        "script_title": "The Lone Walker",
+        "tag": "Rainy_City",
+        "bg_music": "rain_ambient_piano.mp3",
+        "pinned_comment": "Solitude isn't weakness; it's clarity. Drop a \ud83c\udf27\ufe0f if you grind in silence.",
+        "posted": true,
+        "scenes": [
+            {
+                "text": "Walking alone through the storm is not a sign of defeat.",
+                "heading_text": "SILENT PATH",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "It means you refused to follow the crowd into mediocrity.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "The noise of the world fades when you focus strictly on your execution.",
+                "heading_text": "TOTAL FOCUS",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Let the rain wash away your doubts while you build in silence.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "And always keep in mind that...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "005",
+        "script_title": "Shield of Iron",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Stand firm no matter what comes. What warrior code do you live by?",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "A warrior does not ask for an easy battle.",
+                "heading_text": "WARRIOR MINDSET",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "They ask for sharper iron and stronger resolve.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "When the lines break and chaos erupts, courage is your only anchor.",
+                "heading_text": "STAND FIRM",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "You were born to conquer the obstacle directly in front of you.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Never forget the ancient rule that...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "script_title": "Control Your Mind",
+        "tag": "Statues_Stoicism",
+        "bg_music": "dark_ambient_01.mp3",
+        "pinned_comment": "Master your internal state. Control what is yours. \ud83e\udde0",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "You have power over your mind, not outside events.",
+                "heading_text": "INNER POWER",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Realize this, and you will find instant strength.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "To react in anger is to surrender your power to someone else.",
+                "heading_text": "UNSHAKABLE",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Remain immovable like the stone against the crashing sea.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Because the truth remains that...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "007",
+        "script_title": "Outwork Yesterday",
+        "tag": "Gym_Training",
+        "bg_music": "heavy_phonk_01.mp3",
+        "pinned_comment": "Your only competition is in the mirror. Let's work.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "The mirror shows your only real opponent.",
+                "heading_text": "YOU VS YOU",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Yesterday's effort is completely irrelevant today.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "You must earn your progress every single morning without fail.",
+                "heading_text": "EARN IT",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Push past the burning feeling until discipline becomes second nature.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Understand that if you want to win...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "008",
+        "script_title": "Midnight Ambition",
+        "tag": "Rainy_City",
+        "bg_music": "rain_ambient_piano.mp3",
+        "pinned_comment": "While they sleep, we build. Who is awake grinding right now?",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "While the world slumbers, true ambition wakes up.",
+                "heading_text": "NIGHT GRIND",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Empty streets and dark skies hold no distraction for a focused mind.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Every late hour invested now compounds into unbreakable advantage later.",
+                "heading_text": "COMPOUNDING",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Keep moving quietly until your results make all the noise.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Always remember in the dark that...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "009",
+        "script_title": "Spartan Discipline",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "With it or on it. What line will you hold today?",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "Surrender is a word that should never exist in your vocabulary.",
+                "heading_text": "NO RETREAT",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Spartans did not ask how many the enemies were, but where they stood.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Face your obstacles with cold determination and absolute resolve.",
+                "heading_text": "COLD RESOLVE",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Your wall of discipline must stand firm against every assault.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "And lived by the eternal code that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "010",
+        "script_title": "Dying to Comfort",
+        "tag": "Statues_Stoicism",
+        "bg_music": "dark_ambient_01.mp3",
+        "pinned_comment": "Kill the lazy version of yourself. Daily execution only.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "How long are you going to wait before demanding the best of yourself?",
+                "heading_text": "THE WAKE UP",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "You are wasting precious time pretending you have infinite years left.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Die to your weakness today so your strongest self can finally step forward.",
+                "heading_text": "REBIRTH",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Take total ownership over every decision you make from this moment on.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Because if you delay any longer...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "011",
+        "script_title": "Heavy Iron Culture",
+        "tag": "Gym_Training",
+        "bg_music": "heavy_phonk_01.mp3",
+        "pinned_comment": "Embrace the discomfort. Drop a \ud83c\udfcb\ufe0f if you smashed your workout today.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "The gym is the ultimate truth-teller.",
+                "heading_text": "THE TRUTH",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "You cannot fool the iron; it weighs exactly what it weighs.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Either you put in the physical force required, or you fail the lift.",
+                "heading_text": "NO SHORTCUTS",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Embrace that brutal honesty and build a body that reflects your character.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Never forget when you step up that...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    
+
+
+
+
+
+
+
+
+    
+
+    {
+        "id": "012",
+        "script_title": "Forged in Chaos",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Chaos tests your foundation. Stand firm when the storm hits. Drop a ⚔️ if you are battle-ready.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "A calm sea never forged a legendary warrior.",
+                "heading_text": "THE STORM",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "When pressure rises and everything collapses around you, that is your arena.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Average men panic; warriors anchor their mind in cold discipline.",
+                "heading_text": "ANCHOR YOUR MIND",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Let the chaotic world rage while you execute with precise lethal calm.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Remember when the darkness closes in that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "013",
+        "script_title": "The Code of Duty",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Duty over desire, every single day. What code governs your actions?",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "You do not fight because you hate what is in front of you.",
+                "heading_text": "THE TRUE CODE",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "You fight because you love the legacy standing behind you.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Duty demands that you show up long after motivation dies.",
+                "heading_text": "DUTY FIRST",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Honor your bloodline by refusing to compromise on your standards.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Never break the sacred law that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "014",
+        "script_title": "Blood and Iron",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Victories are paid for in advance. Keep putting in the work. 🛡️",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "Victory is never given; it is extracted through relentless effort.",
+                "heading_text": "EARN VICTORY",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "The battlefield shows no mercy to those who slacked in training.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Suffer deeply in preparation so you bleed less in real life.",
+                "heading_text": "TRAIN HARDER",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Hone your weapons daily until your mind becomes indestructible.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Always keep in mind on the path that...",
+                "transition": "cut_smooth"
+            }
+        ]
+    },
+    {
+        "id": "015",
+        "script_title": "Stand Your Ground",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Draw your line in the sand and yield no ground today. Who stands with you?",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "Retreating is a habit formed by taking the easy way out.",
+                "heading_text": "NO STEP BACK",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Draw an absolute line in the dirt and refuse to yield an inch.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "When exhaustion tells you to quit, lock your shield and advance.",
+                "heading_text": "LOCK SHIELDS",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "True strength appears only when backing down is no longer an option.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Stand unwavering because you know that...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "016",
+        "script_title": "Quiet Courage",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Real strength doesn't roar—it endures. Stay steadfast.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "Courage isn't always a loud roar before the charge.",
+                "heading_text": "SILENT RESOLVE",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Often it is the quiet voice at night whispering: I will try again tomorrow.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Endure the wounds of life without crying out for pity.",
+                "heading_text": "ENDURE ALL",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Wear your scars like honor badges from battles nobody witnessed.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Through every storm, remember that...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "017",
+        "script_title": "Conquer Yourself",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "The greatest enemy you'll ever face is looking back at you in the mirror.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "To conquer thousands in battle is a great feat.",
+                "heading_text": "THE INNER FOE",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "To conquer your own weak impulses is the ultimate victory.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Master your fear, rule your desires, and subjugate your laziness.",
+                "heading_text": "SELF MASTERY",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "A man who controls himself can never be conquered by another.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Hold power over yourself because...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "018",
+        "script_title": "The Last Standing",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "When everyone else quits, that's when the real work starts. Outlast them all.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "When the dust settles, only the resilient remain standing.",
+                "heading_text": "OUTLAST ALL",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Talent fades and luck runs dry, but pure stamina conquers all.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Outlast the doubt, outwork the crowd, and endure the pain.",
+                "heading_text": "PURE STAMINA",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Be the one who refuses to drop no matter how heavy the load.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Never forget while standing alone that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "019",
+        "script_title": "Born for the Fight",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "Stop wishing for ease. You were built for the grind. ⚔️",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "Do not pray for comfort; you were born for resistance.",
+                "heading_text": "BUILT FOR THIS",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Your ancestors survived brutal eras so you could thrive today.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Stop complaining about minor friction and step into your power.",
+                "heading_text": "NO COMPLAINTS",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Every obstacle is raw material meant to build your strength.",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Embrace the struggle and remember that...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "020",
+        "script_title": "Legacy of Steel",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "What legacy are you hammering out today? Make it unbreakable.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "What you do today echoes across generations.",
+                "heading_text": "ETERNAL ECHO",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Will your descendants see a line of strength or a history of excuses?",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Forge your daily habits with ruthless accuracy and high intent.",
+                "heading_text": "FORGE STEEL",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Build a mind and character that outlasts your physical body.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Write your legacy knowing that...",
+                "transition": "zoom_dissolve"
+            }
+        ]
+    },
+    {
+        "id": "021",
+        "script_title": "Unbroken Spirit",
+        "tag": "Ancient_Warriors",
+        "bg_music": "cinematic_war_drums.mp3",
+        "pinned_comment": "They can break your body, but never your spirit. Stay defiant.",
+        "posted": false,
+        "scenes": [
+            {
+                "text": "They can challenge your resolve, but they cannot break your spirit.",
+                "heading_text": "UNBROKEN",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Defeat is an internal decision, never an external circumstance.",
+                "transition": "cross_dissolve"
+            },
+            {
+                "text": "Knocked down seven times? Rise up instantly on the eighth.",
+                "heading_text": "RISE AGAIN",
+                "transition": "zoom_dissolve"
+            },
+            {
+                "text": "Maintain an unyielding defiance against failure and doubt.",
+                "transition": "cut_smooth"
+            },
+            {
+                "text": "Keep fighting forward because...",
+                "transition": "cross_dissolve"
+            }
+        ]
+    }
+]
