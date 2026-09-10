@@ -171,7 +171,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Stand firm no matter what comes. What warrior code do you live by?",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "A warrior does not ask for an easy battle.",
@@ -389,23 +389,12 @@
             }
         ]
     },
-    
-
-
-
-
-
-
-
-
-    
-
     {
         "id": "012",
         "script_title": "Forged in Chaos",
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
-        "pinned_comment": "Chaos tests your foundation. Stand firm when the storm hits. Drop a ⚔️ if you are battle-ready.",
+        "pinned_comment": "Chaos tests your foundation. Stand firm when the storm hits. Drop a \u2694\ufe0f if you are battle-ready.",
         "posted": false,
         "scenes": [
             {
@@ -469,7 +458,7 @@
         "script_title": "Blood and Iron",
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
-        "pinned_comment": "Victories are paid for in advance. Keep putting in the work. 🛡️",
+        "pinned_comment": "Victories are paid for in advance. Keep putting in the work. \ud83d\udee1\ufe0f",
         "posted": false,
         "scenes": [
             {
@@ -533,7 +522,7 @@
         "script_title": "Quiet Courage",
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
-        "pinned_comment": "Real strength doesn't roar—it endures. Stay steadfast.",
+        "pinned_comment": "Real strength doesn't roar\u2014it endures. Stay steadfast.",
         "posted": false,
         "scenes": [
             {
@@ -629,7 +618,7 @@
         "script_title": "Born for the Fight",
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
-        "pinned_comment": "Stop wishing for ease. You were built for the grind. ⚔️",
+        "pinned_comment": "Stop wishing for ease. You were built for the grind. \u2694\ufe0f",
         "posted": false,
         "scenes": [
             {
