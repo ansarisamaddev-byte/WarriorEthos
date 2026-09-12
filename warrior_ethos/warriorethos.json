@@ -235,7 +235,7 @@
         "tag": "Gym_Training",
         "bg_music": "heavy_phonk_01.mp3",
         "pinned_comment": "Your only competition is in the mirror. Let's work.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "The mirror shows your only real opponent.",
