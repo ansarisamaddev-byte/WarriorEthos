@@ -267,7 +267,7 @@
         "tag": "Rainy_City",
         "bg_music": "rain_ambient_piano.mp3",
         "pinned_comment": "While they sleep, we build. Who is awake grinding right now?",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "While the world slumbers, true ambition wakes up.",
