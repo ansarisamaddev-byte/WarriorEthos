@@ -299,7 +299,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "With it or on it. What line will you hold today?",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "Surrender is a word that should never exist in your vocabulary.",
