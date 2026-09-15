@@ -331,7 +331,7 @@
         "tag": "Statues_Stoicism",
         "bg_music": "dark_ambient_01.mp3",
         "pinned_comment": "Kill the lazy version of yourself. Daily execution only.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "How long are you going to wait before demanding the best of yourself?",
