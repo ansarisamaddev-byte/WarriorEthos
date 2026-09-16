@@ -363,7 +363,7 @@
         "tag": "Gym_Training",
         "bg_music": "heavy_phonk_01.mp3",
         "pinned_comment": "Embrace the discomfort. Drop a \ud83c\udfcb\ufe0f if you smashed your workout today.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "The gym is the ultimate truth-teller.",
