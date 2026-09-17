@@ -395,7 +395,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Chaos tests your foundation. Stand firm when the storm hits. Drop a \u2694\ufe0f if you are battle-ready.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "A calm sea never forged a legendary warrior.",
