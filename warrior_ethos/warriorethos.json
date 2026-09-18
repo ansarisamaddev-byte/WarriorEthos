@@ -427,7 +427,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Duty over desire, every single day. What code governs your actions?",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "You do not fight because you hate what is in front of you.",
