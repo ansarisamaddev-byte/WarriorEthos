@@ -459,7 +459,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Victories are paid for in advance. Keep putting in the work. \ud83d\udee1\ufe0f",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "Victory is never given; it is extracted through relentless effort.",
