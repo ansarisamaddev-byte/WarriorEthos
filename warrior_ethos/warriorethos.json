@@ -491,7 +491,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Draw your line in the sand and yield no ground today. Who stands with you?",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "Retreating is a habit formed by taking the easy way out.",
