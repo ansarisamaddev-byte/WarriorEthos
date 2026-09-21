@@ -523,7 +523,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Real strength doesn't roar\u2014it endures. Stay steadfast.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "Courage isn't always a loud roar before the charge.",
