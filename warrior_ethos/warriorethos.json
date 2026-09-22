@@ -555,7 +555,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "The greatest enemy you'll ever face is looking back at you in the mirror.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "To conquer thousands in battle is a great feat.",
