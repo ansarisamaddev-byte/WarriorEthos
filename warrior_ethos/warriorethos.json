@@ -587,7 +587,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "When everyone else quits, that's when the real work starts. Outlast them all.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "When the dust settles, only the resilient remain standing.",
