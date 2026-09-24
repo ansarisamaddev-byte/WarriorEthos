@@ -619,7 +619,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "Stop wishing for ease. You were built for the grind. \u2694\ufe0f",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "Do not pray for comfort; you were born for resistance.",
