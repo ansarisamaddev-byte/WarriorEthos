@@ -651,7 +651,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "What legacy are you hammering out today? Make it unbreakable.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "What you do today echoes across generations.",
