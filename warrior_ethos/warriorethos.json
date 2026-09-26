@@ -683,7 +683,7 @@
         "tag": "Ancient_Warriors",
         "bg_music": "cinematic_war_drums.mp3",
         "pinned_comment": "They can break your body, but never your spirit. Stay defiant.",
-        "posted": false,
+        "posted": true,
         "scenes": [
             {
                 "text": "They can challenge your resolve, but they cannot break your spirit.",
